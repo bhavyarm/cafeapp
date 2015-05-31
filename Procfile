@@ -1,0 +1,1 @@
+web: gunicorn cafeapp.wsgi --log-file -
